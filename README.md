@@ -1,1 +1,1 @@
-# ksh-ims-2025-abschlusssemester-dokumente
+# KSH-Abschlusssemester Dokumente (2025)
