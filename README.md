@@ -1,4 +1,4 @@
-# KSH-Abschlusssemester Dokumente (2025)
+# KSH-Abschlusssemester Dokumente (2025) - Status 27.01.2025
 ## PowerPoint - Alle Termine
 [Abschlusssemester-Termine.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/Abschlusssemester-Termine.pdf)
 
