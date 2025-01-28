@@ -5,7 +5,7 @@
 ## Abschlussprüfungstermine
 2. Juni: Wirtschaft und Recht
 3. Juni: Deutsch
-4. Juni: Französisch *(möglicherweise Intranet fehleintrag)*
+4. Juni: Französisch **(!!!Betrifft uns, die I3, nicht!!!)**
 5. Juni: Finanz- und Rechnungswese
 6. Juni: Englisch
 
@@ -13,8 +13,6 @@
 Wirtschaft und Recht: [WR_Stoffprogramm_2025.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/WR_Stoffprogramm_2025.pdf)
 
 Deutsch: *Unbekannt*
-
-Französisch: *Unbekannt; möglicherweise Intranet fehleintrag*
 
 Finanz- und Rechnungswesen: [FRW_Stoffprogramm_2025.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/FRW_Stoffprogramm_2025.pdf)
 
