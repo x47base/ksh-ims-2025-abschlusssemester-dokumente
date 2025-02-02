@@ -12,7 +12,7 @@
 ## Abschlussprüfungs Stoffprogramm
 Wirtschaft und Recht: [WR_Stoffprogramm_2025.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/WR_Stoffprogramm_2025.pdf)
 
-Deutsch: [Mündliche_Abschlussprüfung_Deutsch_Anforderungen.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/M%C3%BCndliche%20Abschlusspr%C3%BCfung%20Deutsch_Anforderungen.pdf)
+Deutsch: [Deutsch_Mündliche_Abschlussprüfung_Anforderungen.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/Deutsch_M%C3%BCndliche_Abschlusspr%C3%BCfung_Anforderungen.pdf)
 
 Finanz- und Rechnungswesen: [FRW_Stoffprogramm_2025.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/FRW_Stoffprogramm_2025.pdf)
 
