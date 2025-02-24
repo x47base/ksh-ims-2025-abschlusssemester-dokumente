@@ -8,6 +8,7 @@
 4. Juni: Französisch **(!!!Betrifft uns, die I3, nicht!!!)**
 5. Juni: Finanz- und Rechnungswese
 6. Juni: Englisch
+24.Juni: Deutsch Mündliche Abschlussprüfung
 
 ## Abschlussprüfungs Stoffprogramm
 Wirtschaft und Recht: [WR_Stoffprogramm_2025.pdf](https://github.com/x47base/ksh-ims-2025-abschlusssemester-dokumente/blob/main/WR_Stoffprogramm_2025.pdf)
